@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_alignParentBottom="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+
+    <ImageButton
+        android:id="@+id/action_gallery_post"
+        android:layout_width="wrap_content"
+        android:layout_height="48.0dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:src="@drawable/ic_gallery"
+        android:background="?selectableItemBackgroundBorderless"
+        android:contentDescription="@string/gallery" />
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="48.0dp"
+        android:layout_marginLeft="@dimen/composer_footer_margin"
+        android:layout_marginStart="@dimen/composer_footer_margin"
+        android:src="@drawable/ic_group_work"
+        android:background="?selectableItemBackgroundBorderless"
+        android:contentDescription="@string/group_work" />
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="48.0dp"
+        android:layout_marginLeft="@dimen/composer_footer_margin"
+        android:layout_marginStart="@dimen/composer_footer_margin"
+        android:src="@drawable/ic_outline_projects"
+        android:background="?selectableItemBackgroundBorderless"
+        android:contentDescription="@string/nav_drawer_project" />
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="48.0dp"
+        android:layout_marginLeft="@dimen/composer_footer_margin"
+        android:layout_marginStart="@dimen/composer_footer_margin"
+        android:src="@drawable/ic_bookmark"
+        android:background="?selectableItemBackgroundBorderless"
+        android:contentDescription="@string/gallery" />
+
+    <View
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/composer_footer_margin"
+        android:layout_marginStart="@dimen/composer_footer_margin"/>
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+
+        android:layout_marginEnd="8dip"
+        android:layout_marginRight="8dip"
+        android:layout_marginTop="12dip"
+        android:layout_marginBottom="12dip"/>
+
+    </LinearLayout>
+

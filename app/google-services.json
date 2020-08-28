@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523822117156",
+    "firebase_url": "https://nexti-1b612.firebaseio.com",
+    "project_id": "nexti-1b612",
+    "storage_bucket": "nexti-1b612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523822117156:android:9515db78dc2c1f28e003b1",
+        "android_client_info": {
+          "package_name": "com.nexti.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523822117156-e5fq8sd033llobc9uhuois78fstairce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF7_j4q_DW6pICkCfxSKIkS7tcyCNsFvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523822117156-e5fq8sd033llobc9uhuois78fstairce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

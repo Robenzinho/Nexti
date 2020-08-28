@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FAFAFA</color>
+    <color name="colorPrimaryDark">#C4C2CA</color>
+    <color name="colorAccent">@color/black</color>
+
+    <color name="background">#EDECEC</color>
+    <color name="icnBtm">#4170EE</color>
+    <color name="mainColor">#FAFAFA</color>
+    <color name="drawerText">#38507A</color>
+    <color name="black">#2B2828</color>
+    <color name="fabColor">@color/mainColor</color>
+
+
+
+    <color name="black_overlay">#66000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Grey">#DDD</color>
+</resources>
